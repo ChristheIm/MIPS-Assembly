@@ -1,0 +1,11 @@
+Week 5 Topic
+- Stack implementation
+- Palindrome programming
+
+Programming
+1) Read string and save it to stack
+- Read string and save it to stack data structure in MIPS
+- Learned how stack works in MIPS
+
+2) Palindrome
+- Generate palindrome program by using stack method in MIPS assembly language
