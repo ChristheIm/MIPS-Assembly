@@ -1,0 +1,12 @@
+We've done the Benchmark simulation on the MIPS assembly language for this week
+
+Benchamark : MIPS Cache Simulater
+- The MIPS code is provided for the class
+- In this week, we were able to learn the Cache action through the MIPS assembly langauge.
+
+Programming:
+1) Sum of squareSum
+- Sum the numbers which are squred
+
+2) Larger of two nums
+- Grabs two numbers from the user and output the bigger value
